@@ -13,3 +13,83 @@ Params: Array
     [9] => $2y$10$0a4t.Q/inE0N07toay6YUOcm2MlICJnBdnwZdutS/LtyVI9B92x1W
 )
 
+[2026-06-01 13:02:12] INSERT FAILED: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'VERIFIED' in 'field list'
+Params: Array
+(
+    [0] => SD
+    [1] => D
+    [2] => 203492333
+    [3] => CEAT
+    [4] => Computer Engineering (CPE)
+    [5] => 31
+    [6] => Female
+    [7] => 3343
+    [8] => qic0245@dlsud.edu.ph
+    [9] => $2y$10$5wV0yh1hV0UM1F/s1UXMoepg9DiKyWYkpkh3zSv6YEXgSyg8gV9Ou
+    [10] => 2026-06-01
+)
+
+[2026-06-01 13:02:14] INSERT FAILED: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'VERIFIED' in 'field list'
+Params: Array
+(
+    [0] => SD
+    [1] => D
+    [2] => 203492333
+    [3] => CEAT
+    [4] => Computer Engineering (CPE)
+    [5] => 31
+    [6] => Female
+    [7] => 3343
+    [8] => qic0245@dlsud.edu.ph
+    [9] => $2y$10$soBa1V5zhnHAz1ib2wutH.yCcGQy5nE/bytedMIkgatNLfBsaGItq
+    [10] => 2026-06-01
+)
+
+[2026-06-01 13:10:58] INSERT FAILED: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'VERIFIED' in 'field list'
+Params: Array
+(
+    [0] => INGRID ALEXI
+    [1] => QUILANG
+    [2] => 202180245
+    [3] => CEAT
+    [4] => Computer Engineering (CPE)
+    [5] => 31
+    [6] => Female
+    [7] => dirgidirgi
+    [8] => qic0245@dlsud.edu.ph
+    [9] => $2y$10$OD6G2w5kvbPAfMpScA176.4RZjO0u4hdE2mQ2fTwk8XdiJJycwhnG
+    [10] => 2026-06-01
+)
+
+[2026-06-01 13:13:45] INSERT FAILED: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'VERIFIED' in 'field list'
+Params: Array
+(
+    [0] => INGRID ALEXI
+    [1] => QUILANG
+    [2] => 202180245
+    [3] => CEAT
+    [4] => Computer Engineering (CPE)
+    [5] => 31
+    [6] => Female
+    [7] => dirgidirgi
+    [8] => qic0245@dlsud.edu.ph
+    [9] => $2y$10$WNUpOz4PMJ1YFTxIYwcSLOXHIQ7dSdV8jp0pCW1fKj7rdHbgLAdOe
+    [10] => 2026-06-01
+)
+
+[2026-06-01 13:24:48] INSERT FAILED: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'VERIFIED' in 'field list'
+Params: Array
+(
+    [0] => INGRID ALEXI
+    [1] => QUILANG
+    [2] => 202180245
+    [3] => CEAT
+    [4] => Computer Engineering (CPE)
+    [5] => 31
+    [6] => Female
+    [7] => dirgidirgi
+    [8] => qic0245@dlsud.edu.ph
+    [9] => $2y$10$KnQoS.NtOYfAphrkfHY8tOVzCM4UyNqtu/cqEiFDSMJEDSzPUn2Z6
+    [10] => 2026-06-01
+)
+
