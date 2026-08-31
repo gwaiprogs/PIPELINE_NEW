@@ -1,3 +1,11 @@
+DETAILS:
+user: qic0245@dlsud.edu.ph
+password: Dirg123*
+
+admin: admin
+password: admin123
+
+
 to add this to your computer:
 
 run this in you vscode terminal:
