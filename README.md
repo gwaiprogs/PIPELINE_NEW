@@ -1,5 +1,6 @@
 DETAILS:
 user: qic0245@dlsud.edu.ph
+student number: 202180245
 password: Dirg123*
 
 admin: admin
